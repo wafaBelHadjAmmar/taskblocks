@@ -1,3 +1,10 @@
 #summary Screenshots of Task Blocks application
+#labels Featured
 
 = Screenshots =
+
+http://taskblocks.googlecode.com/svn/wiki/taskblocks1.png
+
+http://taskblocks.googlecode.com/svn/wiki/taskblocks2.png
+
+http://taskblocks.googlecode.com/svn/wiki/taskblocks3.png
