@@ -1,13 +1,13 @@
 #readme file for the project
 
-=TaskBlocks README=
+=Task Blocks README=
 
 ==What is it==
-TaskBlocks is simple application to help planning tasks. From version 0.5 it
+Task Blocks is simple application to help planning tasks. From version 0.5 it
 supports also exporting tasks as Bugzilla bugs.
 
 ==Installation==
-You need Java JRE 5.0 or higher installed to run TaskBlocks. So, if you don't
+You need Java JRE 5.0 or higher installed to run Task Blocks. So, if you don't
 have, install it first, for example from <http://java.sun.com>. Mac OS X users
 need to update their 10.4 system, which will install Java 5.0. Having Java 5.0
 or higner installed, just download the latest taskblocks.jar file (or Mac users
@@ -39,5 +39,4 @@ http://taskblocks.googlecode.com
 == Author ==
 Feel free to write me you comments or questions. My name an email is:
 Jakub Neubauer j.neubauer@cz.gmc.net
-
 
