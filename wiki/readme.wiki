@@ -1,4 +1,4 @@
-#readme file for the project
+#summary "readme" for the taskblocks project
 
 =!TaskBlocks README=
 
@@ -38,5 +38,4 @@ http://taskblocks.googlecode.com
 
 == Author ==
 Feel free to write me you comments or questions. My name is Jakub Neubauer and email is mailto:j.neubauer@cz.gmc.net
-
 
