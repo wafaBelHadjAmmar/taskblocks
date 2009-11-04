@@ -3,3 +3,5 @@
 = References =
   * http://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Task-Blocks.shtml
   * http://java-source.net/open-source/project-management/taskblocks
+  * http://mac.freshmeat.net/projects/taskblocks
+  * http://linux.softpedia.com/get/Office/Scheduling/Task-Blocks-29680.shtml
