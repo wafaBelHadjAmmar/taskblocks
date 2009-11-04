@@ -1,0 +1,5 @@
+#summary Pages that refer to Taskblocks
+
+= References =
+  * http://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Task-Blocks.shtml
+  * http://java-source.net/open-source/project-management/taskblocks
