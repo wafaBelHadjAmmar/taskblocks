@@ -6,7 +6,8 @@
   * http://java-source.net/open-source/project-management/taskblocks
   * http://mac.freshmeat.net/projects/taskblocks
   * http://linux.softpedia.com/get/Office/Scheduling/Task-Blocks-29680.shtml
-  * http://www.softsea.com/review/Task-Blocks.html
+  * http://www.softsea.com/review/Task-Blocks.html
   * http://www.freemacware.com/task-blocks
   * http://bstdownload.com/reviews/task-blocks/
   * http://www.downv.com/Mac/download-Task-Blocks-10015650.htm
+  * http://www.baixaki.com.br/mac/download/task-blocks.htm (Port.)
